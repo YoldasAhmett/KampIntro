@@ -9,7 +9,7 @@ namespace OOP3
         {
             IKrediManager ihtiyacKrediManager = new IhtiyacKrediManager();
             IKrediManager tasitKrediManager = new TasitKrediManager();
-            IKrediManager konutKrediManager = new TasitKrediManager();
+            IKrediManager konutKrediManager = new KonutKrediManager();
 
 
             ILoggerService dataBaseLoggerService = new DatabaseLoggerService();
