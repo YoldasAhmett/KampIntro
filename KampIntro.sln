@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A9A2617A-7580-4F6F-A5A4-919FB83CFA00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{F8A137D7-5D5F-47E7-8132-0AFCA2EE4430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{F8A137D7-5D5F-47E7-8132-0AFCA2EE4430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "Linq\LinqProject.csproj", "{7D5C65BE-6919-44FD-9680-AA44D3BF3DD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F8A137D7-5D5F-47E7-8132-0AFCA2EE4430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A137D7-5D5F-47E7-8132-0AFCA2EE4430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A137D7-5D5F-47E7-8132-0AFCA2EE4430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5C65BE-6919-44FD-9680-AA44D3BF3DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5C65BE-6919-44FD-9680-AA44D3BF3DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5C65BE-6919-44FD-9680-AA44D3BF3DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5C65BE-6919-44FD-9680-AA44D3BF3DD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
